@@ -85,6 +85,6 @@ flowchart TD
 ---
 
 ## 🔗 External Links & Contributions
-* **Kaggle Code Notebook:** [Kaggle Notebook Contribution](https://www.kaggle.com/datasets/kaggleprollc/phishing-url-websites-dataset-phiusiil/code)
+* **Kaggle Code Notebook:** [Kaggle Notebook Contribution](https://www.kaggle.com/code/drewcanflyy/m115-lab1-phishing-detection-secmlops)
 * **Dataset Source:** [UCI Machine Learning Repository / Kaggle PhiUSIIL](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
 
