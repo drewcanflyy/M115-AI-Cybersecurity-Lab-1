@@ -1,0 +1,8 @@
+# Data files (do not push heavy dataset to GitHub)
+PhiUSIIL_Phishing_URL_Dataset.csv
+PhiUSIIL_Phishing_URL_Dataset.zip
+*.zip
+*.csv
+__MACOSX/
+.system_generated/
+*.py
